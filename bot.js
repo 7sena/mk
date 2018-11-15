@@ -10,4 +10,4 @@ var ChannelID = "512565591484399617";//Id Room
 });
 
 
-client.login("NTAzNjE1NjMyNTA0Mzg5NjMy.Drb8RQ.D0o10e9c5JPX8NLAPQwfHwszRWc");
+Client.login("NTAzNjE1NjMyNTA0Mzg5NjMy.Drb8RQ.D0o10e9c5JPX8NLAPQwfHwszRWc");
